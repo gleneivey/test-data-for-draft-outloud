@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook V5.0/EN"
+    "http://www.oasis-open.org/docbook/xml/5.0/docbook.dtd" >
+
+<book xmlns="http://docbook.org/ns/docbook" version="5.0">
+  <book>
+  <title>Cool-Tech: In a Nutshell</title>
+
+  <chapter>
+    <title>Introduction</title>
+  </chapter>
+  </appendix>
+</book>
