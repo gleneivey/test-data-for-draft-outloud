@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook V5.0/EN"
+    "http://www.oasis-open.org/docbook/xml/5.0/docbook.dtd" >
+
+<book xmlns="http://docbook.org/ns/docbook" version="5.0">
+  <title>Cool-Tech: In a Nutshell</title>
+
+  <chapter>
+    <title>Introduction</title>
+    <para>
+All good books start with an introduction, right?
+    </para>
+  </chapter>
+
+  <chapter>
+    <title>The Real Content</title>
+    <para>
+Middle chapters talk about the stuff the book's really supposed to be
+about.  This one is all about "Cool-Tech", which is both Cool and
+Technical.  And since this is a Nutshell book, it is a comprehesive
+reference to all of the coolness.
+    </para>
+  </chapter>
+
+  <chapter>
+    <title>Conclusion</title>
+    <para>
+What have we learned in the book today?
+    </para>
+  </chapter>
+
+  <appendix>
+    <title>Fiddly Bits We Didn't Want to Address Elsewhere</title>
+    <para>
+Even though this is a technical reference, there were a few little
+details that were to complicated or inconsequential to include in one
+of the real chapters.  So they're here, in a chapter that clearly
+indicates that it doesn't have to be read.
+    </para>
+  </appendix>
+</book>
