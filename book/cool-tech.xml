@@ -60,20 +60,9 @@ A paragraph.
 
           <sect2>
             <title>Another Subsection</title>
-
-            <section>
-              <title>First sub-subsection</title>
-	      <para>
+	    <para>
 A paragraph.
-	      </para>
-            </section>
-
-            <section>
-              <title>First sub-subsection</title>
-	      <para>
-Another paragraph.
-	      </para>
-            </section>
+	    </para>
           </sect2>
         </sect1>
 
@@ -107,6 +96,46 @@ A paragraph.
 	    </para>
           </simplesect>
         </sect1>
+      </chapter>
+
+      <chapter>
+        <title>A Chapter of Unnumbered Sections</title>
+
+        <section>
+          <title>First Section</title>
+
+	  <section>
+	    <title>First sub-subsection</title>
+	    <para>
+A paragraph.
+	    </para>
+	  </section>
+
+	  <section>
+	    <title>Second sub-subsection</title>
+	    <para>
+Another paragraph.
+	    </para>
+	  </section>
+        </section>
+
+        <section>
+          <title>Second Section</title>
+
+	  <simplesect>
+	    <title>First Leaf Subsection</title>
+	    <para>
+A paragraph.
+	    </para>
+	  </simplesect>
+
+	  <simplesect>
+	    <title>Second Leaf Subsection</title>
+	    <para>
+Another paragraph.
+	    </para>
+	  </simplesect>
+        </section>
       </chapter>
     </part>
 
