@@ -2,40 +2,150 @@
 <!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook V5.0/EN"
     "http://www.oasis-open.org/docbook/xml/5.0/docbook.dtd" >
 
-<book xmlns="http://docbook.org/ns/docbook" version="5.0">
-  <title>Cool-Tech: In a Nutshell</title>
+<set>
+  <title>Cool-Tech Library</title>
 
-  <chapter>
-    <title>Introduction</title>
-    <para>
+  <book xmlns="http://docbook.org/ns/docbook" version="5.0">
+    <title>Cool-Tech: In a Nutshell</title>
+
+    <part>
+      <title>Overview</title>
+
+      <chapter>
+	<title>Introduction</title>
+	<para>
 All good books start with an introduction, right?
-    </para>
-  </chapter>
+	</para>
 
-  <chapter>
-    <title>The Real Content</title>
-    <para>
+        <sidebar>
+          <title>A Few Other Thoughts</title>
+          <para>
+And while you're thinking about Cool-Tech, you might consider how it
+relates to our other products, Spiffy-Tech and Chilly-Tech.
+          </para>
+        </sidebar>
+      </chapter>
+
+      <chapter>
+	<title>The Real Content</title>
+
+	<para>
 Middle chapters talk about the stuff the book's really supposed to be
 about.  This one is all about "Cool-Tech", which is both Cool and
 Technical.  And since this is a Nutshell book, it is a comprehesive
 reference to all of the coolness.
-    </para>
-  </chapter>
+	</para>
 
-  <chapter>
-    <title>Conclusion</title>
-    <para>
+        <sect1>
+          <title>First Major Section</title>
+
+          <sect2>
+            <title>A Subsection</title>
+
+            <sect3>
+              <title>Third-Level Subsection</title>
+
+              <sect4>
+                <title>Fourth-Level Subsection</title>
+
+                <sect5>
+                  <title>Fifth-Level Subsection</title>
+                  <para>
+A paragraph.
+                  </para>
+                </sect5>
+              </sect4>
+            </sect3>
+          </sect2>
+
+          <sect2>
+            <title>Another Subsection</title>
+
+            <section>
+              <title>First sub-subsection</title>
+	      <para>
+A paragraph.
+	      </para>
+            </section>
+
+            <section>
+              <title>First sub-subsection</title>
+	      <para>
+Another paragraph.
+	      </para>
+            </section>
+          </sect2>
+        </sect1>
+
+        <sect1>
+          <title>Second Major Section</title>
+	  <para>
+A paragraph.
+	  </para>
+
+          <simplesect>
+            <title>This</title>
+
+	    <para>
+A paragraph.
+	    </para>
+          </simplesect>
+
+          <simplesect>
+            <title>That</title>
+
+	    <para>
+A paragraph.
+	    </para>
+          </simplesect>
+
+          <simplesect>
+            <title>The Other</title>
+
+	    <para>
+A paragraph.
+	    </para>
+          </simplesect>
+        </sect1>
+      </chapter>
+    </part>
+
+    <part>
+      <title>References</title>
+
+      <chapter>
+        <title>Cool-Tech Commands</title>
+	<para>
+A paragraph.
+	</para>
+      </chapter>
+
+      <chapter>
+	<title>Conclusion</title>
+	<para>
 What have we learned in the book today?
-    </para>
-  </chapter>
+	</para>
+      </chapter>
 
-  <appendix>
-    <title>Fiddly Bits We Didn't Want to Address Elsewhere</title>
-    <para>
+      <appendix>
+	<title>Fiddly Bits We Didn't Want to Address Elsewhere</title>
+	<para>
 Even though this is a technical reference, there were a few little
 details that were to complicated or inconsequential to include in one
 of the real chapters.  So they're here, in a chapter that clearly
 indicates that it doesn't have to be read.
-    </para>
-  </appendix>
-</book>
+	</para>
+      </appendix>
+
+      <glossary>
+      </glossary>
+
+      <index>
+      </index>
+    </part>
+  </book>
+
+  <book xmlns="http://docbook.org/ns/docbook" version="5.0">
+    <title>Cool-Tech for Dummies</title>
+  </book>
+</set>
