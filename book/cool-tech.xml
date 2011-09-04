@@ -176,5 +176,12 @@ indicates that it doesn't have to be read.
 
   <book xmlns="http://docbook.org/ns/docbook" version="5.0">
     <title>Cool-Tech for Dummies</title>
+
+    <chapter>
+      <title>One Chapter</title>
+      <para>
+A very, very short book.  Dummies like that.
+      </para>
+    </chapter>
   </book>
 </set>
